@@ -1,5 +1,8 @@
 {
     "files.associations": {
-        "random": "cpp"
+        "random": "cpp",
+        "limits": "cpp",
+        "numbers": "cpp",
+        "algorithm": "cpp"
     }
 }
