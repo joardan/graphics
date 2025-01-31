@@ -1,6 +1,6 @@
 # Raytracer
 
-![Raytracer Image](https://github.com/joardan/graphics/final_high.png)
+![Raytracer Image](https://github.com/joardan/graphics/blob/main/final_high.png)
 
 ## Description
 
